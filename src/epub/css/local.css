@@ -122,4 +122,21 @@ p span.i2{
 [epub|type~="z3998:dramatis-personae"] ul + p{
 	margin-top: 2em;
 }
+
+#dramatis-personae tr{
+	break-inside: avoid;
+}
+
+#dramatis-personae tr td{
+	padding: 0 .5em 0 0;
+	vertical-align: middle;
+	text-align: right;
+	width: 50%;
+}
+
+#dramatis-personae tr td + td{
+	border-left: 1px solid;
+	text-align: initial;
+	padding: 0 0 0 .5em;
+}
 /* End dramatis personae */
