@@ -123,7 +123,7 @@ p span.i2{
 	margin-top: 2em;
 }
 
-#dramatis-personae tr{
+#dramatis-personae table{
 	break-inside: avoid;
 }
 
