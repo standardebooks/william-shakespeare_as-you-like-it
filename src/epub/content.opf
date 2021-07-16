@@ -44,6 +44,8 @@
 		<meta property="term" refines="#subject-4">sh85098565</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Forced to flee to the Forest of Arden, the daughter of a duke encounters a variety of characters, her banished father, and even finds love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In a French duchy, the old Duke has been usurped by his younger brother, Frederick. A young man named Orlando is mistreated by his elder brother, against their dead father’s wishes. Rosalind, the old Duke’s daughter, has been allowed to remain in court only because she is the closest friend of Celia, Duke Frederick’s daughter. When Rosalind is banished from court, she flees to the Forest of Arden with Celia and Touchstone, the court fool; meanwhile, Orlando also escapes to the forest, fleeing his brother. In the Forest of Arden, the old Duke holds court with exiled supporters, including the melancholy Jacques. There, Rosalind disguises herself as Ganymede and offers advice to a group of would-be lovers: Orlando, who has taken to posting love poems dedicated to Rosalind on trees, and Silvius and Phebe, two young shepherds.&lt;/p&gt;
