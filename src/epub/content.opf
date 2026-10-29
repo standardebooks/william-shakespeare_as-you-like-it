@@ -68,6 +68,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">John Collier</dc:contributor>
 		<meta property="file-as" refines="#artist">Collier, John</meta>
+		<meta property="schema:alternateName" refines="#artist">John Maler Collier</meta>
 		<link href="https://en.wikipedia.org/wiki/John_Collier_(painter)" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no90006902.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
